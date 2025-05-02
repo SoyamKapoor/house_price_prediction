@@ -79,3 +79,24 @@ The dataset contains information on housing in Boston suburbs with features such
 
 4. **Explore the Analysis**
    - Follow each step in the notebook to see the data loading, cleaning, visualization, and insights process.
+
+---
+
+## ✅ Conclusion
+
+This project successfully demonstrates a complete workflow for **house price prediction** using the Boston Housing dataset, featuring:
+
+- **Data Preprocessing**: Normalized all numerical features and handled missing values to ensure clean inputs.
+- **Custom Model Implementations**: Built three regression models from scratch—  
+  - **Linear Regression** (closed‑form solution),  
+  - **Random Forest** (bagged decision trees),  
+  - **XGBoost‑style Gradient Boosting**.
+- **Performance Comparison**: Evaluated each model on the test set using **RMSE** and **R²**, highlighting trade‑offs between bias and variance.
+- **Feature Importance Analysis**: Visualized the most influential predictors for the tree‑based models, offering insights into which factors drive housing prices.
+
+Key takeaways:
+- The **Linear Regression** baseline provides interpretable coefficients but may under‑fit complex relationships.
+- **Random Forest** reduces variance and captures nonlinear effects, improving predictive accuracy.
+- The **XGBoost‑style model** further refines residual errors through iterative boosting, often yielding the lowest error.
+
+Overall, this project showcases practical skills in **from‑scratch algorithm implementation**, **model evaluation**, and **interpretability**—essential techniques for real‑world regression tasks and data‑driven decision making. ```
