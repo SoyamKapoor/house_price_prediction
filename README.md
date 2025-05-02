@@ -8,7 +8,7 @@ This project predicts housing prices using the **Boston Housing Dataset** by app
 ## 📁 Dataset
 
 - **Name:** Boston Housing Dataset  
-- **Download:** [HousingData.csv](https://raw.githubusercontent.com/selva86/datasets/master/BostonHousing.csv)
+- **Download:** [HousingData.csv](https://www.kaggle.com/datasets/altavish/boston-housing-dataset)
 
 ---
 
